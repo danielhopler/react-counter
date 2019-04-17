@@ -1,6 +1,6 @@
 # react-counter
 
-* A simple tutorial to cut your teeth on React.js components, state and props.
+* A simple tutorial from the [Bloc Web Developer Program](www.bloc.io) to cut your teeth on React.js components, state and props.
 * React documentation - https://reactjs.org/
 
 ## Configuration
@@ -23,3 +23,7 @@
   </body>
 </html>
 ```
+
+* We need to load three libraries: react, react-dom, and babel-core. We need the first two to render React into a DOM, and the third to enable JSX and ES6. Next, we will write the rest of our code in a <script> block. We'll use the  text/babel format to enable ES6. Babel is a JavaScript compiler that allows us to use the latest generation of JavaScript.
+  
+
