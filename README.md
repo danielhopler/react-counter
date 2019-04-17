@@ -1,6 +1,6 @@
 # react-counter
 
-* A simple tutorial from the [Bloc Web Developer Program](www.bloc.io) to cut your teeth on React.js components, state and props.
+* A simple tutorial from the [Bloc Web Developer Program](www.bloc.io) to cut your teeth on React.js components.
 * React documentation - https://reactjs.org/
 
 ## Configuration
